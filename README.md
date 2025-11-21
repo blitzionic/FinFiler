@@ -12,7 +12,11 @@
 - Outputs in a structured report format
 
 <p align="center">
-  <img src="assets/FinFiler_diagram.png" alt="System Architecture" width="600">
+  <img src="assets/pipeline_github.png" alt="System Architecture" width="600">
+</p>
+
+<p align="center">
+  <img src="assets/directory_github.png" alt="System Architecture" width="300">
 </p>
 
 
