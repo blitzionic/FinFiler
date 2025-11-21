@@ -15,11 +15,6 @@
   <img src="assets/pipeline_github.png" alt="System Architecture" width="600">
 </p>
 
-<p align="center">
-  <img src="assets/directory_github.png" alt="System Architecture" width="300">
-</p>
-
-
 ## Repo Structure
 ```
 FinFiler/
